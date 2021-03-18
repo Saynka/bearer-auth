@@ -6,9 +6,9 @@
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [ci/cd](https://github.com/Saynka/bearer-auth/actions)
+<!-- - [back-end server url](http://xyz.com) (when applicable) -->
+- [front-end application](https://bearer-auth-ba.herokuapp.com/)
 
 ### Setup
 
@@ -16,7 +16,7 @@
 
 i.e.
 
-- `PORT` - 
+- `PORT` -
 - `MONGODB_URI` - URL to the running mongo instance/db
 - `base-64`: "^1.0.0",
 - `bcrypt`
@@ -43,4 +43,4 @@ i.e.
 
 #### UML
 
-![UML Example](./reference/uml-1.png)
+![UML Example](./assets/lab7.png)

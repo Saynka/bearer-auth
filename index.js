@@ -2,6 +2,7 @@
 'use strict';
 
 // Start up DB Server
+require('dotenv').config();
 const mongoose = require('mongoose');
 const options = {
   useNewUrlParser: true,
